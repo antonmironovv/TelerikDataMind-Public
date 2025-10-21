@@ -1,0 +1,21 @@
+id,title,start,end,Description,Participants,BudgetUSD,SatisfactionScore,RevenueImpactUSD
+1,Q1 Planning Meeting,2024-01-01T21:58:00.000Z,2024-01-01T23:00:00.000Z,Quarterly strategy meeting to align business objectives and targets for Q1.,56,7396,9.7,37606
+2,Product Launch Review,2024-01-02T21:58:00.000Z,2024-01-02T23:00:00.000Z,Team discussion to review feedback and outcomes from the latest product release.,19,9666,8.3,16534
+3,Client Presentation,2024-01-03T21:58:00.000Z,2024-01-03T23:00:00.000Z,Presentation for the new corporate client outlining project deliverables.,76,19942,3.7,99663
+4,Marketing Campaign Kickoff,2024-01-04T21:58:00.000Z,2024-01-04T23:00:00.000Z,Kickoff meeting for the upcoming marketing campaign across all regions.,65,19431,1.9,45397
+5,Budget Review Session,2024-01-05T21:58:00.000Z,2024-01-05T23:00:00.000Z,Finance team review of departmental budgets and cost optimizations.,25,3747,7.2,96387
+6,Team Building Workshop,2024-01-06T21:58:00.000Z,2024-01-06T23:00:00.000Z,Interactive session aimed at improving collaboration and communication.,79,1189,5.0,6016
+7,Customer Success Call,2024-01-07T21:58:00.000Z,2024-01-07T23:00:00.000Z,Follow-up call with key clients to ensure satisfaction and gather insights.,79,20118,2.1,94789
+8,R&D Progress Update,2024-01-08T21:58:00.000Z,2024-01-08T23:00:00.000Z,Research and Development department update on ongoing innovation projects.,28,4005,5.5,60591
+9,Hiring Committee Meeting,2024-01-09T21:58:00.000Z,2024-01-09T23:00:00.000Z,Evaluation of new candidates and discussion of upcoming hiring needs.,7,22042,1.3,94812
+10,Sales Performance Review,2024-01-10T21:58:00.000Z,2024-01-10T23:00:00.000Z,Analysis of Q4 sales performance and setting new KPIs for the next quarter.,26,2899,9.2,28247
+11,Product Design Sprint,2024-01-11T21:58:00.000Z,2024-01-11T23:00:00.000Z,Design and prototype sprint session with cross-functional teams.,57,2267,3.3,29300
+12,Investor Relations Briefing,2024-01-12T21:58:00.000Z,2024-01-12T23:00:00.000Z,Preparation of materials and updates for upcoming investor meetings.,6,18912,7.0,79065
+13,IT Infrastructure Audit,2024-01-13T21:58:00.000Z,2024-01-13T23:00:00.000Z,Technical audit of systems performance and upcoming upgrade plans.,34,12394,3.8,87798
+14,Annual Report Finalization,2024-01-14T21:58:00.000Z,2024-01-14T23:00:00.000Z,Final review of the annual report before publication.,42,4556,5.7,14268
+15,Partner Collaboration Summit,2024-01-15T21:58:00.000Z,2024-01-15T23:00:00.000Z,Meeting with strategic partners to discuss joint initiatives.,6,4890,5.9,91807
+16,Data Security Workshop,2024-01-16T21:58:00.000Z,2024-01-16T23:00:00.000Z,Security awareness session focusing on new compliance policies.,68,9838,2.7,17185
+17,Customer Retention Strategy,2024-01-17T21:58:00.000Z,2024-01-17T23:00:00.000Z,Planning session for retention programs and loyalty initiatives.,64,15502,9.7,68704
+18,Quarterly Earnings Discussion,2024-01-18T21:58:00.000Z,2024-01-18T23:00:00.000Z,Internal financial meeting reviewing earnings and forecasts.,25,22777,8.0,91779
+19,Operational Risk Review,2024-01-19T21:58:00.000Z,2024-01-19T23:00:00.000Z,Assessment of potential operational risks and mitigation strategies.,37,11627,9.5,44099
+20,Executive Board Meeting,2024-01-20T21:58:00.000Z,2024-01-20T23:00:00.000Z,Monthly executive meeting to discuss high-level company priorities.,62,9792,9.1,13571

@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>@ViewData["Title"] - TelerikDataMind</title>
+
+    <environment names="Development">
+        <link rel="stylesheet" href="~/lib/bootstrap/css/bootstrap.css" />
+        <link rel="stylesheet" href="~/css/site.css" />
+    </environment>
+    <environment names="Staging,Production">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" />
+        <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    </environment>
+    @*Core Content Start*@
+
+    <link href="https://kendo.cdn.telerik.com/themes/12.0.0/bootstrap/bootstrap-main-dark.css" rel="stylesheet" type="text/css" />
+	<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+	<script src="https://unpkg.com/jszip/dist/jszip.min.js"></script>
+	<script src="https://cdn.kendostatic.com/2025.3.825/js/kendo.all.min.js"></script>
+	<script src="https://cdn.kendostatic.com/2025.3.825/js/kendo.aspnetmvc.min.js"></script>
+@*Core Content End*@
+</head>
+<body class="k-content">
+    <div class="background-blur"></div>
+    @(Html.Kendo().AppBar()
+        .Name("appbar")
+        .ThemeColor(AppBarThemeColor.Inherit)
+        .Items(items=> {
+            items.Add().Template("<a class='k-button k-button-flat-base k-button-flat k-button-md k-rounded-md k-icon-button' href='/Home/Index'><img src='/images/logo-icon.svg' class='home-button-logo'/>Telerik DataMind</a>").Type(AppBarItemType.ContentItem);
+            items.Add().Template("<a class='k-button k-button-flat-base k-button-flat k-button-md k-rounded-md' href='/Home/Description'>Project Description</a>").Type(AppBarItemType.ContentItem);
+            items.Add().Template("<a class='k-button k-button-flat-base k-button-flat k-button-md k-rounded-md' href='/Home/About'>About</a>").Type(AppBarItemType.ContentItem);
+        })
+    )
+    <main>
+        <div class="container-fluid">
+            @RenderBody()
+        </div>
+    </main>
+
+    <footer class="footer text-center d-flex align-items-center">
+        <div class="container-fluid">
+            <p class="text-muted">
+                Copyright © @DateTime.Now.Year Progress Software Corporation and/or its subsidiaries or affiliates. All rights reserved.
+            </p>
+        </div>
+    </footer>
+
+    <environment names="Development">
+        <script src="~/lib/bootstrap/js/bootstrap.js"></script>
+    </environment>
+    <environment names="Staging,Production">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
+    </environment>
+
+    @RenderSection("scripts", required: false)
+</body>
+</html>

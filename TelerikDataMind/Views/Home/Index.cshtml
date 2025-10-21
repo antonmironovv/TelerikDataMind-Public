@@ -1,0 +1,127 @@
+﻿@{
+    ViewData["Title"] = "AI File Analysis";
+}
+
+@model RequestViewModel
+
+<script src="~/js/site.js"></script>
+<script src="~/js/widgetFactory.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+
+<div class="home-page-container">
+    <div class="logo">
+        <img src="~/images/logo.svg" />
+        <p>Telerik DataMind generates dashboards from a document using Telerik &amp; Kendo charts and UI components, helping users visualize key information and insights.</p>
+    </div>
+    <div class="form-contiainer">
+        <div id="loader-overlay">
+            <div id="aiLoader"></div>
+            <h3>Analyzing your file with AI...</h3>
+        </div>
+
+        <form id="requestForm" class="k-form" kendo-validator="true" method="POST">
+            <div class="k-form-field upload-container">
+                <span class="k-form-field-wrap">
+                    <div class="dropZoneElement">
+                        <span class="file-icon">
+                            <svg viewBox="0 0 512 512">
+                                <path d="M352 32H96c-17.7 0-32 14.3-32 32v384c0 17.7 14.3 32 32 32h320c17.7 0 32-14.3 32-32V128zm64 416H96V64h224v96h96zm-32-96v32H128v-32zM256 160v32H128v-32m256 64v32H128v-32zm-256 96v-32h224v32z" />
+                            </svg>
+                        </span>
+                        <div class="dropZoneText">
+                            <p>Drag and drop your file here</p>
+                            <span class="hint">(Max. File size: 25 MB)</span>
+                        </div>
+                    </div>
+                    @(Html.Kendo().Upload()
+                        .Name("DataFile")
+                        .Multiple(false)
+                        .Messages(msg => msg.Select("Select files"))
+                        .DropZone(".dropZoneElement")
+                        .Async(a => a
+                           .Save("Save", "File")
+                           .Remove("Remove", "File")
+                           .AutoUpload(true)
+                        )
+                    )
+                </span>
+            </div>
+            <div class="k-form-field">
+                <label asp-for="SelectedComponents" class="k-form-label">Component Type <span class="label-hint">(Optional)</span></label>
+                <span class="k-form-field-wrap">
+                    @(Html.Kendo().MultiSelectFor(m => m.SelectedComponents)
+                        .AutoClose(false)
+                        .DownArrow(true)
+                        .Placeholder("Choose components")
+                        .BindTo(new List<string>() {
+                            "Charts",
+                            "Grid",
+                            "Map",
+                            "Scheduler"
+                        })
+                    )
+                </span>
+            </div>
+            <div class="k-form-field">
+                <label asp-for="Prompt" class="k-form-label">Prompt Area</label>
+                <span class="k-form-field-wrap">
+                    @(Html.Kendo().TextAreaFor(m => m.Prompt)
+                        .Placeholder("Write your prompt here...")
+                        .Rows(3)
+                        .Rounded(Rounded.Large)
+                        .SuffixOptions(suffix =>
+                        {
+                            suffix
+                            .Separator(false)
+                            .Template(Html.Kendo().Template()
+                            .AddComponent(btn => btn
+                            .SpeechToTextButton()
+                            .Name("speechButton")
+                            .HtmlAttributes(new { @class = "k-mr-xs" })
+                            .ThemeColor(ThemeColor.Primary)
+                            .FillMode(ButtonFillMode.Flat)
+                            .Events(ev => ev.Result("onSpeechToTextResult"))
+                            ));
+                        })
+                    )
+                </span>
+            </div>
+            <div class="k-form-buttons">
+                <button class="k-form-submit k-button k-button-md k-rounded-md k-button-solid k-button-solid-primary" data-role="button" type="submit"><span class="k-button-text">Submit</span></button>
+                <button class="k-form-clear k-button k-button-md k-rounded-md k-button-solid k-button-solid-base" data-role="button" type="button" role="button"><span class="k-button-text">Clear</span></button>
+            </div>
+        </form>
+    </div>
+
+    <div class="dashboard-container">
+        <!-- Summary Cards-->
+        @*     <div id="ai-placeholder" class="ai-placeholder">
+        <div class="placeholder-card">
+            <span class="k-icon k-font-icon k-i-validation-data"></span>
+            <div>
+                <h4>Summary Insights</h4>
+                <p>AI will generate human-readable insights here based on your dataset.</p>
+            </div>
+        </div>
+        <div class="placeholder-card">
+            <span class="k-icon k-font-icon k-i-chart-line-markers"></span>
+            <div>
+                <h4>Charts & Visualizations</h4>
+                <p>Charts will appear dynamically depending on data relevance.</p>
+            </div>
+        </div>
+        <div class="placeholder-card">
+            <span class="k-icon k-font-icon k-i-map-marker"></span>
+            <div>
+                <h4>Maps & Data Widgets</h4>
+                <p>Geographic and advanced widgets will be rendered by AI.</p>
+            </div>
+        </div>
+    </div> *@
+
+        @* <div id="summary"></div> *@
+        <div id="chart"></div>
+        <div id="widgets"></div>
+    </div>
+</div>
+

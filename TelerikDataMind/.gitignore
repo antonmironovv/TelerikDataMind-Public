@@ -1,0 +1,10 @@
+**/node_modules/**
+**/bower_components/**
+**/*.sln.ide/**
+**/*.vs/**
+**/project.lock.json
+artifacts/**
+**/bin/**
+**/obj/**
+**/Properties/debugSettings.json
+**/packages/**

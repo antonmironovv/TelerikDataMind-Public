@@ -1,0 +1,71 @@
+Region,Habitat Type,Observation Month,Red Pandas Observed,Population Trend (%),Conservation Effort Score,Average Health Index,Temperature (°C),Rainfall (mm),Image URL,Stress Level (%),Activity Type
+Nepal,Temperate Forest,Jan,19,2.5,5,7.4,17.7,268,https://redpandanetwork.org/get/files/image/galleries/Mathias_Appel_7.jpg,92.04635236,Grooming
+India,Subtropical Forest,Feb,9,1.3,4,6.4,12.6,247,https://cms.whipsnadezoo.org/sites/default/files/styles/responsive/public/1440/729/1/2022-11/Ruby%20the%20red%20panda%20in%20a%20tree%20at%20Whipsnade%20Zoo.png.webp,90.27967542,Feeding
+India,Bamboo Forest,Mar,7,3.7,9,8.5,24.6,120,https://komonews.com/resources/media/07da0b6b-71b4-4d83-b14e-c5d4c053fc5c-1024x1024.jpg,95.23241242,Exploring
+India,Bamboo Forest,Apr,3,0.9,9,8,5.6,228,https://images.squarespace-cdn.com/content/v1/54ef35d1e4b021bc7efe797f/efacdebe-3a42-4b16-bbac-822a7fcb18d1/red_panda.jpeg?format=1500w,92.60158312,Resting
+Nepal,Bamboo Forest,May,3,-3.4,6,5.8,8.2,177,https://redpandanetwork.org/get/files/image/galleries/Mathias_Appel_7.jpg,99.01910743,Playing
+China,Temperate Forest,Jun,13,-3.8,5,9.3,14.9,62,https://komonews.com/resources/media/07da0b6b-71b4-4d83-b14e-c5d4c053fc5c-1024x1024.jpg,94.74081883,Playing
+Bhutan,Temperate Forest,Jul,2,-2.5,7,9.1,19.4,98,https://cms.whipsnadezoo.org/sites/default/files/styles/responsive/public/1440/729/1/2022-11/Ruby%20the%20red%20panda%20in%20a%20tree%20at%20Whipsnade%20Zoo.png.webp,89.30898032,Feeding
+Nepal,Temperate Forest,Aug,13,-0.6,8,8.4,15.8,191,https://images.squarespace-cdn.com/content/v1/54ef35d1e4b021bc7efe797f/efacdebe-3a42-4b16-bbac-822a7fcb18d1/red_panda.jpeg?format=1500w,86.77766485,Playing
+India,Subtropical Forest,Sep,18,3.6,8,7.9,19.9,190,https://images.squarespace-cdn.com/content/v1/54ef35d1e4b021bc7efe797f/efacdebe-3a42-4b16-bbac-822a7fcb18d1/red_panda.jpeg?format=1500w,94.19542926,Exploring
+Bhutan,Subtropical Forest,Oct,2,0.5,6,5.9,17.2,133,https://komonews.com/resources/media/07da0b6b-71b4-4d83-b14e-c5d4c053fc5c-1024x1024.jpg,93.09051571,Grooming
+China,Bamboo Forest,Nov,12,4.2,5,7,22.2,212,https://komonews.com/resources/media/07da0b6b-71b4-4d83-b14e-c5d4c053fc5c-1024x1024.jpg,93.6491891,Feeding
+India,Subtropical Forest,Dec,11,1.2,8,8.7,23.3,93,https://cms.whipsnadezoo.org/sites/default/files/styles/responsive/public/1440/729/1/2022-11/Ruby%20the%20red%20panda%20in%20a%20tree%20at%20Whipsnade%20Zoo.png.webp,92.70114172,Grooming
+Eastern Himalayas,Subtropical Forest,Jan,12,-0.7,7,6.2,7.7,211,https://redpandanetwork.org/get/files/image/galleries/Mathias_Appel_7.jpg,93.08080283,Feeding
+China,Temperate Forest,Feb,18,0.6,7,7.1,7.1,165,https://komonews.com/resources/media/07da0b6b-71b4-4d83-b14e-c5d4c053fc5c-1024x1024.jpg,90.88106714,Exploring
+Eastern Himalayas,Subtropical Forest,Mar,20,0.2,8,7.3,24,205,https://komonews.com/resources/media/07da0b6b-71b4-4d83-b14e-c5d4c053fc5c-1024x1024.jpg,94.55115435,Resting
+China,Subtropical Forest,Apr,16,6,7,5.1,6.7,114,https://cms.whipsnadezoo.org/sites/default/files/styles/responsive/public/1440/729/1/2022-11/Ruby%20the%20red%20panda%20in%20a%20tree%20at%20Whipsnade%20Zoo.png.webp,89.98087443,Resting
+Bhutan,Subtropical Forest,May,16,-3.6,6,8.1,13,185,https://redpandanetwork.org/get/files/image/galleries/Mathias_Appel_7.jpg,92.7084746,Playing
+Bhutan,Bamboo Forest,Jun,14,3,7,8.8,20.1,205,https://komonews.com/resources/media/07da0b6b-71b4-4d83-b14e-c5d4c053fc5c-1024x1024.jpg,86.54608536,Feeding
+China,Subtropical Forest,Jul,10,-3.4,6,6.4,13.5,226,https://images.squarespace-cdn.com/content/v1/54ef35d1e4b021bc7efe797f/efacdebe-3a42-4b16-bbac-822a7fcb18d1/red_panda.jpeg?format=1500w,91.62934862,Playing
+China,Subtropical Forest,Aug,8,1.7,7,7.3,6.6,170,https://images.squarespace-cdn.com/content/v1/54ef35d1e4b021bc7efe797f/efacdebe-3a42-4b16-bbac-822a7fcb18d1/red_panda.jpeg?format=1500w,90.46603488,Grooming
+Eastern Himalayas,Subtropical Forest,Sep,6,1.3,10,9.3,24,259,https://cms.whipsnadezoo.org/sites/default/files/styles/responsive/public/1440/729/1/2022-11/Ruby%20the%20red%20panda%20in%20a%20tree%20at%20Whipsnade%20Zoo.png.webp,89.48613966,Exploring
+Eastern Himalayas,Bamboo Forest,Oct,4,0.3,7,8.4,12.7,123,https://images.squarespace-cdn.com/content/v1/54ef35d1e4b021bc7efe797f/efacdebe-3a42-4b16-bbac-822a7fcb18d1/red_panda.jpeg?format=1500w,96.54805536,Resting
+Bhutan,Subtropical Forest,Nov,17,0,9,5.4,19.2,164,https://cms.whipsnadezoo.org/sites/default/files/styles/responsive/public/1440/729/1/2022-11/Ruby%20the%20red%20panda%20in%20a%20tree%20at%20Whipsnade%20Zoo.png.webp,95.9457812,Playing
+Eastern Himalayas,Bamboo Forest,Dec,16,-0.9,8,9.2,5.1,284,https://cms.whipsnadezoo.org/sites/default/files/styles/responsive/public/1440/729/1/2022-11/Ruby%20the%20red%20panda%20in%20a%20tree%20at%20Whipsnade%20Zoo.png.webp,88.72784202,Playing
+China,Temperate Forest,Jan,18,0.9,4,6,10,121,https://redpandanetwork.org/get/files/image/galleries/Mathias_Appel_7.jpg,97.54386928,Grooming
+Eastern Himalayas,Subtropical Forest,Feb,18,-4.2,4,8.3,7.2,106,https://images.squarespace-cdn.com/content/v1/54ef35d1e4b021bc7efe797f/efacdebe-3a42-4b16-bbac-822a7fcb18d1/red_panda.jpeg?format=1500w,88.32348243,Playing
+Nepal,Bamboo Forest,Mar,20,-1.7,5,5.1,14.7,275,https://komonews.com/resources/media/07da0b6b-71b4-4d83-b14e-c5d4c053fc5c-1024x1024.jpg,95.09123032,Resting
+Eastern Himalayas,Bamboo Forest,Apr,9,-4.9,5,7.9,15.4,246,https://images.squarespace-cdn.com/content/v1/54ef35d1e4b021bc7efe797f/efacdebe-3a42-4b16-bbac-822a7fcb18d1/red_panda.jpeg?format=1500w,92.34324189,Resting
+India,Subtropical Forest,May,9,-2,10,8.1,18.4,87,https://cms.whipsnadezoo.org/sites/default/files/styles/responsive/public/1440/729/1/2022-11/Ruby%20the%20red%20panda%20in%20a%20tree%20at%20Whipsnade%20Zoo.png.webp,88.36721011,Grooming
+Eastern Himalayas,Temperate Forest,Jun,14,-2.5,5,8.3,24.5,120,https://komonews.com/resources/media/07da0b6b-71b4-4d83-b14e-c5d4c053fc5c-1024x1024.jpg,96.26540045,Grooming
+Eastern Himalayas,Bamboo Forest,Jul,19,1.3,4,9.3,14.9,242,https://komonews.com/resources/media/07da0b6b-71b4-4d83-b14e-c5d4c053fc5c-1024x1024.jpg,92.18429267,Exploring
+India,Subtropical Forest,Aug,17,5.1,5,7.1,11,138,https://komonews.com/resources/media/07da0b6b-71b4-4d83-b14e-c5d4c053fc5c-1024x1024.jpg,92.05160436,Grooming
+Bhutan,Subtropical Forest,Sep,11,1.8,6,6.5,20.6,158,https://images.squarespace-cdn.com/content/v1/54ef35d1e4b021bc7efe797f/efacdebe-3a42-4b16-bbac-822a7fcb18d1/red_panda.jpeg?format=1500w,91.29749139,Exploring
+India,Temperate Forest,Oct,18,-2.7,5,5.3,11.8,96,https://images.squarespace-cdn.com/content/v1/54ef35d1e4b021bc7efe797f/efacdebe-3a42-4b16-bbac-822a7fcb18d1/red_panda.jpeg?format=1500w,97.43342221,Grooming
+Eastern Himalayas,Subtropical Forest,Nov,20,-4,6,6.8,19.9,86,https://cms.whipsnadezoo.org/sites/default/files/styles/responsive/public/1440/729/1/2022-11/Ruby%20the%20red%20panda%20in%20a%20tree%20at%20Whipsnade%20Zoo.png.webp,95.63539871,Playing
+Bhutan,Subtropical Forest,Dec,17,-3.1,5,6,22.9,238,https://cms.whipsnadezoo.org/sites/default/files/styles/responsive/public/1440/729/1/2022-11/Ruby%20the%20red%20panda%20in%20a%20tree%20at%20Whipsnade%20Zoo.png.webp,89.19107876,Grooming
+Eastern Himalayas,Temperate Forest,Jan,9,-3.1,7,6.8,11.1,233,https://redpandanetwork.org/get/files/image/galleries/Mathias_Appel_7.jpg,95.98139612,Feeding
+India,Subtropical Forest,Feb,6,3.2,8,9.3,10.1,259,https://cms.whipsnadezoo.org/sites/default/files/styles/responsive/public/1440/729/1/2022-11/Ruby%20the%20red%20panda%20in%20a%20tree%20at%20Whipsnade%20Zoo.png.webp,89.70414348,Exploring
+Bhutan,Bamboo Forest,Mar,6,5.9,9,6.8,20.4,232,https://komonews.com/resources/media/07da0b6b-71b4-4d83-b14e-c5d4c053fc5c-1024x1024.jpg,95.3899581,Feeding
+Nepal,Bamboo Forest,Apr,10,-3.4,5,8.4,12.2,219,https://redpandanetwork.org/get/files/image/galleries/Mathias_Appel_7.jpg,86.83408504,Feeding
+Eastern Himalayas,Bamboo Forest,May,10,1.3,4,7.4,12.8,139,https://komonews.com/resources/media/07da0b6b-71b4-4d83-b14e-c5d4c053fc5c-1024x1024.jpg,88.97307975,Exploring
+India,Bamboo Forest,Jun,17,2.7,6,6.9,19.9,151,https://komonews.com/resources/media/07da0b6b-71b4-4d83-b14e-c5d4c053fc5c-1024x1024.jpg,96.03762595,Grooming
+India,Temperate Forest,Jul,5,-3.6,6,9,5.1,243,https://redpandanetwork.org/get/files/image/galleries/Mathias_Appel_7.jpg,92.46384297,Playing
+India,Subtropical Forest,Aug,16,4.2,9,6.9,15,141,https://images.squarespace-cdn.com/content/v1/54ef35d1e4b021bc7efe797f/efacdebe-3a42-4b16-bbac-822a7fcb18d1/red_panda.jpeg?format=1500w,95.93898454,Exploring
+Nepal,Bamboo Forest,Sep,9,-1.8,8,7,7,232,https://komonews.com/resources/media/07da0b6b-71b4-4d83-b14e-c5d4c053fc5c-1024x1024.jpg,95.76468665,Grooming
+Bhutan,Bamboo Forest,Oct,5,-4.1,4,6.1,5.2,272,https://komonews.com/resources/media/07da0b6b-71b4-4d83-b14e-c5d4c053fc5c-1024x1024.jpg,91.8663059,Grooming
+Bhutan,Temperate Forest,Nov,18,5.8,9,8,20.7,90,https://komonews.com/resources/media/07da0b6b-71b4-4d83-b14e-c5d4c053fc5c-1024x1024.jpg,92.63098121,Feeding
+China,Temperate Forest,Dec,6,-2.2,9,9.2,24.8,111,https://images.squarespace-cdn.com/content/v1/54ef35d1e4b021bc7efe797f/efacdebe-3a42-4b16-bbac-822a7fcb18d1/red_panda.jpeg?format=1500w,91.30336478,Exploring
+Bhutan,Bamboo Forest,Jan,7,3.5,6,5.7,15.8,153,https://images.squarespace-cdn.com/content/v1/54ef35d1e4b021bc7efe797f/efacdebe-3a42-4b16-bbac-822a7fcb18d1/red_panda.jpeg?format=1500w,98.878085,Playing
+China,Subtropical Forest,Feb,7,4.8,9,8.8,23.8,297,https://redpandanetwork.org/get/files/image/galleries/Mathias_Appel_7.jpg,94.68488439,Playing
+Eastern Himalayas,Temperate Forest,Mar,5,-1.8,8,6.6,13.3,102,https://komonews.com/resources/media/07da0b6b-71b4-4d83-b14e-c5d4c053fc5c-1024x1024.jpg,88.51347275,Grooming
+India,Subtropical Forest,Apr,2,-2.5,10,5.6,8.4,191,https://redpandanetwork.org/get/files/image/galleries/Mathias_Appel_7.jpg,98.41645652,Feeding
+Nepal,Bamboo Forest,May,15,-0.9,6,7.9,21.7,163,https://komonews.com/resources/media/07da0b6b-71b4-4d83-b14e-c5d4c053fc5c-1024x1024.jpg,96.39435739,Grooming
+Nepal,Subtropical Forest,Jun,16,-2.6,4,7.8,19.7,285,https://redpandanetwork.org/get/files/image/galleries/Mathias_Appel_7.jpg,90.6792538,Exploring
+Eastern Himalayas,Bamboo Forest,Jul,14,-0.7,4,7.1,14,190,https://images.squarespace-cdn.com/content/v1/54ef35d1e4b021bc7efe797f/efacdebe-3a42-4b16-bbac-822a7fcb18d1/red_panda.jpeg?format=1500w,94.99563185,Resting
+Nepal,Temperate Forest,Aug,10,1.8,4,7.1,16.7,179,https://images.squarespace-cdn.com/content/v1/54ef35d1e4b021bc7efe797f/efacdebe-3a42-4b16-bbac-822a7fcb18d1/red_panda.jpeg?format=1500w,89.3141641,Feeding
+China,Bamboo Forest,Sep,3,-3.2,8,7.7,16.8,261,https://images.squarespace-cdn.com/content/v1/54ef35d1e4b021bc7efe797f/efacdebe-3a42-4b16-bbac-822a7fcb18d1/red_panda.jpeg?format=1500w,90.64179325,Resting
+Eastern Himalayas,Subtropical Forest,Oct,20,-0.4,5,5.9,17.5,165,https://redpandanetwork.org/get/files/image/galleries/Mathias_Appel_7.jpg,98.14897937,Grooming
+India,Temperate Forest,Nov,6,4.6,4,8.7,24.6,69,https://redpandanetwork.org/get/files/image/galleries/Mathias_Appel_7.jpg,89.97165301,Grooming
+Nepal,Subtropical Forest,Dec,3,5.3,8,9.4,25,261,https://komonews.com/resources/media/07da0b6b-71b4-4d83-b14e-c5d4c053fc5c-1024x1024.jpg,87.3163238,Feeding
+Bhutan,Bamboo Forest,Jan,2,5.2,4,6.4,15.1,151,https://redpandanetwork.org/get/files/image/galleries/Mathias_Appel_7.jpg,91.30107667,Playing
+Eastern Himalayas,Bamboo Forest,Feb,11,1.8,8,5.6,14.8,85,https://komonews.com/resources/media/07da0b6b-71b4-4d83-b14e-c5d4c053fc5c-1024x1024.jpg,91.69844464,Exploring
+China,Temperate Forest,Mar,9,-4.3,8,7.4,6,238,https://redpandanetwork.org/get/files/image/galleries/Mathias_Appel_7.jpg,91.88164912,Feeding
+Eastern Himalayas,Bamboo Forest,Apr,14,5.9,10,9.3,21.6,237,https://cms.whipsnadezoo.org/sites/default/files/styles/responsive/public/1440/729/1/2022-11/Ruby%20the%20red%20panda%20in%20a%20tree%20at%20Whipsnade%20Zoo.png.webp,93.79288763,Playing
+Bhutan,Bamboo Forest,May,19,3.6,9,5.8,8.6,96,https://cms.whipsnadezoo.org/sites/default/files/styles/responsive/public/1440/729/1/2022-11/Ruby%20the%20red%20panda%20in%20a%20tree%20at%20Whipsnade%20Zoo.png.webp,93.78293824,Grooming
+India,Bamboo Forest,Jun,3,-0.6,9,7.6,16.9,283,https://redpandanetwork.org/get/files/image/galleries/Mathias_Appel_7.jpg,94.3523591,Exploring
+Eastern Himalayas,Temperate Forest,Jul,16,-4.1,5,8.1,5.4,299,https://komonews.com/resources/media/07da0b6b-71b4-4d83-b14e-c5d4c053fc5c-1024x1024.jpg,91.51507879,Resting
+China,Bamboo Forest,Aug,12,-4.8,8,5.7,17.4,294,https://images.squarespace-cdn.com/content/v1/54ef35d1e4b021bc7efe797f/efacdebe-3a42-4b16-bbac-822a7fcb18d1/red_panda.jpeg?format=1500w,98.54939225,Grooming
+Nepal,Bamboo Forest,Sep,17,3.1,8,6.4,6.2,192,https://redpandanetwork.org/get/files/image/galleries/Mathias_Appel_7.jpg,98.15519873,Playing
+Nepal,Temperate Forest,Oct,6,-2,6,5.5,9.8,183,https://images.squarespace-cdn.com/content/v1/54ef35d1e4b021bc7efe797f/efacdebe-3a42-4b16-bbac-822a7fcb18d1/red_panda.jpeg?format=1500w,90.24016438,Playing
